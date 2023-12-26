@@ -99,3 +99,16 @@ body{
     display: none; 
     color: #fff;
 }
+@media screen and (max-width:600px){
+    .search input{
+        padding: 10px;
+        font-size: 16px;
+    }
+    .search button{
+        width: 40px;
+        height: 40px;
+    }
+    .search button img{
+        width: 15px:
+    }
+}
