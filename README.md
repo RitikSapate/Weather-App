@@ -7,3 +7,5 @@
 •	Seamless API integration for accurate weather information.
 
 •	Technologies Used: HTML, CSS, JavaScript.
+
+Live Demo : https://weather-app-byritik.netlify.app/
